@@ -256,4 +256,3 @@ Not a replacement for modern frameworks like Laravel or CodeIgniter 4, but a bri
 - CLI Migrations
 - REST API starter module
 - Admin dashboard template
-```
